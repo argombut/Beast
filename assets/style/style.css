@@ -1,0 +1,12 @@
+.rounded-pill{
+	height: 100px;
+	width: 90%;
+	color: white;
+	border: 7px solid #e21d2f;
+}
+
+#runtext{
+	background-image: linear-gradient(43deg, #FFFFFF 0%, #002868 46%, #BF0A30 100%);
+	--webkit-background-clip: text;
+	color: transparent;
+}
